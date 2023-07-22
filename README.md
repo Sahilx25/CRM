@@ -1,12 +1,14 @@
-#Freak CRM (Customer Relationship Management) 
+# Freak CRM (Customer Relationship Management) 
 
 This project involved the development of a comprehensive Customer Relationship Management (CRM) system, This CRM system efficiently manages various data points, such as sales, stocks, employees, and other pertinent company information.
 
 Key Features:
 
-1.) User-Friendly Interface:<br>   A user-friendly interface was designed and implemented to facilitate easy access and interaction with the CRM system for administrators, users, and employees.
+# 1.) User-Friendly Interface:
+    A user-friendly interface was designed and implemented to facilitate easy access and interaction with the CRM system for administrators, users, and employees.
 
-2.) Streamlined Sales Processes:<br>   The system includes modules that streamline sales processes, enabling efficient tracking and management of accounts and customer interactions.
+2.) Streamlined Sales Processes:
+  The system includes modules that streamline sales processes, enabling efficient tracking and management of accounts and customer interactions.
 
 3.) Backend Development:<br>   The backend functionality was developed using Java, Spring Boot, and Hibernate, ensuring robust and efficient data processing.
 
